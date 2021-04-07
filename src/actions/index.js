@@ -7,3 +7,4 @@ export const fetchPosts = async () => {
 		payload: response,
 	};
 };
+// This wont work
